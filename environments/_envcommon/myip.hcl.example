@@ -1,0 +1,3 @@
+locals {
+  myip = "XXX.XXX.XXX.XXX/XX"
+}
