@@ -69,7 +69,7 @@ inputs = {
 			max_count 		= 3
 			# Mandatory when release_channel REGULAR is set.
 			auto_upgrade 	= true
-			machine_type	= "e2-small"
+			machine_type	= "e2-standard-4"
 		}
 	]
 
