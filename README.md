@@ -1,6 +1,8 @@
 # Demo terragrunt
 
-This repo show an example file/folder structure you can use with [Terragrunt](https://github.com/gruntwork-io/terragrunt) to keep your [Terraform](https://www.terraform.io) code DRY.
+This repository show an example file/folder structure you can use with [Terragrunt](https://github.com/gruntwork-io/terragrunt) to keep your [Terraform](https://www.terraform.io) code DRY.
+
+It is part of a set of repositories that allow to deploy a demo-app on gcp, here is the link to the [general documentation](https://github.com/eistin/demo-docs).
 
 ## What is deployed ? 
 
