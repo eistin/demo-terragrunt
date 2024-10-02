@@ -14,7 +14,7 @@ locals {
 # Terragrunt will copy the Terraform configurations specified by the source parameter, along with any files in the
 # working directory, into a temporary folder, and execute your Terraform commands in that folder.
 terraform {
-  source = "https://github.com/eistin/tf-module-gcp-cloudsql.git"
+  source = "https://github.com/eistin/tf-module-gcp-cloudsql.git?ref=v1.2.3"
 }
 
 # Include all settings from the root terragrunt.hcl file
